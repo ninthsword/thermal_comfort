@@ -1,6 +1,6 @@
 {
   "domain": "thermal_comfort",
-  "name": "Thermal Comfort",
+  "name": "[KR]Thermal Comfort",
   "codeowners": ["@dolezsa", "@ninthsword"],
   "config_flow": true,
   "documentation": "https://github.com/ninthsword/thermal_comfort/blob/master/README.md",
