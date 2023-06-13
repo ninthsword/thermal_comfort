@@ -86,15 +86,15 @@
       },
       "summer_simmer_perception": {
         "state": {
-          "cool": "Cool",
-          "slightly_cool": "Slightly cool",
-          "comfortable": "Comfortable",
-          "slightly_warm": "Slightly warm",
-          "increasing_discomfort": "Increasing discomfort",
-          "extremely_warm": "Extremely warm",
-          "danger_of_heatstroke": "Danger of heatstroke",
-          "extreme_danger_of_heatstroke": "Extreme danger of heatstroke",
-          "circulatory_collapse_imminent": "Circulatory collapse imminent"
+          "cool": "시원",
+          "slightly_cool": "약간 시원",
+          "comfortable": "편안",
+          "slightly_warm": "약간 더움",
+          "increasing_discomfort": "더움",
+          "extremely_warm": "매우 더움",
+          "danger_of_heatstroke": "열사병 주의",
+          "extreme_danger_of_heatstroke": "열사병 위험",
+          "circulatory_collapse_imminent": "생명 위험"
         }
       },
       "scharlau_perception": {
@@ -108,12 +108,12 @@
       },
       "thoms_discomfort_perception": {
         "state": {
-          "no_discomfort": "No discomfort",
-          "less_then_half": "Less than half of the population feels discomfort",
-          "more_then_half": "More than half of the population feels discomfort",
-          "most": "Most individuals feel discomfort and deterioration of psychophysical conditions",
-          "everyone": "Everyone feels significant discomfort",
-          "dangerous": "Dangerous, very strong discomfort which may cause heat strokes"
+          "no_discomfort": "쾌적",
+          "less_then_half": "낮음",
+          "more_then_half": "보통",
+          "most": "높음",
+          "everyone": "불쾌",
+          "dangerous": "위험"
         }
       }
     }
